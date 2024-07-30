@@ -20,7 +20,7 @@ Site published at: https://github.com/GiedreKite/projektas-workshop
 - Github pages
 - basic HTML elements/tags
 - basic inline-CSS rules
-- **NO** responsive design
+- responsive design
 
 ## 🧰 Getting Started
 
