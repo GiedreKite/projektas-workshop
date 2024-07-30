@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Rytas
+# Cards
 
 _website design project_
 
@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/GiedreKite/projektas-workshop
+Site published at: https://github.com/GiedreKite/cards
 
 ## 🎯 Project features/goals
 
@@ -44,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/GiedreKite//projektas-workshop.git
+   git clone https://github.com/GiedreKite//cards.git
    ```
 2. Install NPM packages
    ```sh
